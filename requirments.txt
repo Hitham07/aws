@@ -1,0 +1,14 @@
+python==3.8
+Flast=1.2
+Docker=1.2.14
+Ansible=1.25
+jenkies
+traform
+gitlan
+circle ci 
+tensor flow
+keras
+pytorch
+pytroch light 
+pysql
+
